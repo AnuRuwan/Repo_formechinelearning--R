@@ -4,6 +4,7 @@
 .jupyter-server-log.txt
 .local/
 .profile
+.conda/
 .gitconfig
 
 # Byte-compiled / optimized / DLL files
