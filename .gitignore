@@ -4,6 +4,7 @@
 .jupyter-server-log.txt
 .local/
 .profile
+.gitconfig
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
