@@ -12,6 +12,7 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-caret
+  - r-ellipse
   - r-e1071
   - pip
   - pip:
